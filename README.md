@@ -1,0 +1,1 @@
+# RedHat_Satellite_subscription_assessment
